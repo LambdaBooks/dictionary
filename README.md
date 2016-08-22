@@ -4,18 +4,18 @@
 
 ### A
 
-* **action** TODO
-* **adaptive design** TODO
-* **almost standards mode** TODO
-* **anchor** TODO
-* **animation** TODO
-* **arrow function** TODO
-* **assert** TODO
-* **asset** TODO
-* **asynchronous** TODO
-* **at-keyword** – #CSS
-* **at-rule** – #CSS
-* **attribute** TODO
+* [**action**](./DICTIONARY.md#action)
+* [**adaptive design**](./DICTIONARY.md#adaptive-design)
+* [**almost standards mode**](./DICTIONARY.md#almost-standards-mode)
+* [**anchor**](./DICTIONARY.md#anchor)
+* [**animation**](./DICTIONARY.md#animation)
+* [**arrow function**](./DICTIONARY.md#arrow-function)
+* [**assert**](./DICTIONARY.md#assert)
+* [**asset**](./DICTIONARY.md#asset)
+* [**asynchronous**](./DICTIONARY.md#asynchronous)
+* [**at-keyword**](./DICTIONARY.md#at-keyword)
+* [**at-rule**](./DICTIONARY.md#at-rule)
+* [**attribute**](./DICTIONARY.md#attribute)
 
 ### B
 
@@ -50,7 +50,7 @@
 * **cellpadding** TODO
 * **cellspacing** TODO
 * **character reference** TODO
-* **checkbox** — #d
+* **checkbox** — TODO
 * **child** TODO
 * **classitis** TODO
 * **clear** TODO
@@ -157,7 +157,7 @@
 * **git** TODO
 * **github** TODO
 * **global symbol registry** TODO
-* **graceful degradation** - #d
+* **graceful degradation** - TODO
 * **gradient** TODO
 * **grid layout** TODO
 * **grid** TODO
@@ -173,7 +173,7 @@
 ## I
 
 * **icon font** TODO
-* **immediately-invoked function expression (IIFE)** TODOфункціональний вираз (НВФВ)
+* **immediately-invoked function expression (IIFE)** TODO
 * **immutable** TODO
 * **implement** TODO
 * **initializer** TODO
@@ -235,10 +235,10 @@
 
 * **nested** TODO
 * **node** TODO
-* **Normalization Form Canonical Composition (NFC)** TODO«Канонічна композиція»
-* **Normalization Form Canonical Decomposition (NFD)** TODO«Канонічна декомпозиція»
-* **Normalization Form Compatibility Composition (NFKC)** TODOнормалізації «Сумісна композиція»
-* **Normalization Form Compatibility Decomposition (NFKD)** TODOнормалізації «Сумісна декомпозиція»
+* **Normalization Form Canonical Composition (NFC)** TODO
+* **Normalization Form Canonical Decomposition (NFD)** TODO
+* **Normalization Form Compatibility Composition (NFKC)** TODO
+* **Normalization Form Compatibility Decomposition (NFKD)** TODO
 * **number** TODO
 * **numeric** TODO
 
@@ -347,7 +347,7 @@
 * **single-threaded** TODO
 * **singletone** TODO
 * **skew** TODO
-* **source code** - початковий, джерельний код
+* **source code** TODO
 * **source maps** TODO
 * **source** TODO
 * **specification, spec** TODO
