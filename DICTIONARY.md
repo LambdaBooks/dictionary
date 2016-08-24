@@ -24,7 +24,7 @@
 
 ### animation
 
-**анімація** — поступова зміна візуальних параметрів об’єкта.
+**аніма́ція** — поступова зміна візуальних параметрів об’єкта.
 
 ### arrow function
 
@@ -40,7 +40,7 @@
 
 ### asynchronous
 
-**асинхронний** — той, який не збігається з чим-небудь у часі; неодночасний; протилежне до синхронний, напр. _asynchronous function_ — асинхронна функція.
+**асинхронний** — той, який не збігається з чим-небудь у часі; неодночасний; протилежне до синхронний, напр. _asynchronous function — асинхронна функція_.
 
 ### at-keyword
 
@@ -198,7 +198,10 @@ TODO
 
 TODO
 
-### checkbox** — d
+### checkbox
+
+TODO
+
 ### child
 
 TODO
@@ -225,7 +228,7 @@ TODO
 
 ### clone
 
-#git
+git
 
 ### closure
 
@@ -237,7 +240,7 @@ TODO
 
 ### code review
 
-#git
+git
 
 ### code unit
 
@@ -257,7 +260,7 @@ TODO
 
 ### color
 
-#css
+css
 
 ### colspan
 
@@ -269,15 +272,15 @@ TODO
 
 ### combinator
 
-#css
+css
 
 ### comment
 
-#CSS
+CSS
 
 ### commit
 
-#git
+git
 
 ### compatibility
 
@@ -338,9 +341,7 @@ TODO
 
 ## D
 
-### data binding
-
-TODO
+### debugger
 
 ### debugging
 
@@ -408,7 +409,7 @@ TODO
 
 ### display
 
-TODO
+TODO відображення, подання
 
 ### divitis
 
@@ -764,11 +765,11 @@ TODO
 
 ### master
 
-#git
+git
 
 ### merge
 
-#git
+git
 
 ### map
 
@@ -788,19 +789,19 @@ TODO
 
 ### media feature
 
-#css
+css
 
 ### media query list
 
-#css
+css
 
 ### media query
 
-#css
+css
 
 ### media type
 
-#css
+css
 
 ### memory leak
 
@@ -886,7 +887,7 @@ TODO
 
 ### origin
 
-#git
+git
 
 ### outline
 
@@ -905,7 +906,7 @@ TODO
 
 ### padding
 
-TODO
+TODO поля, відступи
 
 ### pagination
 
@@ -921,7 +922,7 @@ TODO
 
 ### percentage
 
-#css
+css
 
 ### performance budget
 
@@ -1009,7 +1010,7 @@ TODO
 
 ### property
 
-#css
+css
 
 ### proposed recommendation (PR)
 
@@ -1021,11 +1022,11 @@ TODO
 
 ### pseudo-class
 
-#css
+css
 
 ### pseudo-element
 
-#css
+css
 
 ### pull request
 
@@ -1033,13 +1034,13 @@ TODO
 
 ### pull
 
-#git
+git
 
 ### push
 
-#git
+git
 
-### repositories
+### repository
 
 репозиторій
 
@@ -1111,7 +1112,7 @@ TODO
 
 ### repository
 
-#git
+git
 
 ### reset
 
@@ -1155,7 +1156,7 @@ TODO
 
 ### rule-set
 
-#css
+css
 
 ### runtime
 
@@ -1194,7 +1195,7 @@ TODO
 
 ### selector
 
-#css
+css
 
 ### semantics
 
@@ -1286,7 +1287,7 @@ TODO
 
 ### statement
 
-оператор, (інструкція) #css
+інструкція, оператор, (інструкція) #css
 
 ### strict mode
 
@@ -1294,7 +1295,7 @@ TODO
 
 ### string
 
-#css d
+css d
 
 ### style guide
 
@@ -1319,10 +1320,6 @@ TODO
 ### substitutions
 
 підстановки
-
-### supplementary plane
-
-додаткова матриця, додаткова площина
 
 ### surrogate pair
 
@@ -1440,7 +1437,7 @@ TODO
 
 ### upstream
 
-#git
+git
 
 ### unary
 
@@ -1452,7 +1449,7 @@ TODO
 
 ### unit
 
-#css
+css
 
 ### URI
 
@@ -1460,7 +1457,7 @@ TODO
 
 ### URL
 
-#css
+css
 
 ### user experience (UX)
 

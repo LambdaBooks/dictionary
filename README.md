@@ -88,7 +88,7 @@
 
 ## D
 
-* **data binding** TODO
+* **debugger** TODO
 * **debugging** TODO
 * **declarations** TODO
 * **deep comparison** TODO
@@ -173,6 +173,7 @@
 ## I
 
 * **icon font** TODO
+* **idintifier** TODO
 * **immediately-invoked function expression (IIFE)** TODO
 * **immutable** TODO
 * **implement** TODO
@@ -276,6 +277,7 @@
 * **ppi (pixel per inch)** TODO
 * **preprocessor** TODO
 * **private object members** TODO
+* **program** TODO
 * **progress bar** TODO
 * **progressive enhancement** TODO
 * **prolyfill** TODO
