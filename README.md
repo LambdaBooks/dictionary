@@ -4,40 +4,40 @@
 
 ### A
 
-* **action** TODO
-* **adaptive design** TODO
-* **almost standards mode** TODO
-* **anchor** TODO
-* **animation** TODO
-* **arrow function** TODO
-* **assert** TODO
-* **asset** TODO
-* **asynchronous** TODO
-* **at-keyword** – #CSS
-* **at-rule** – #CSS
-* **attribute** TODO
+* [**action**](./DICTIONARY.md#action)
+* [**adaptive design**](./DICTIONARY.md#adaptive-design)
+* [**almost standards mode**](./DICTIONARY.md#almost-standards-mode)
+* [**anchor**](./DICTIONARY.md#anchor)
+* [**animation**](./DICTIONARY.md#animation)
+* [**arrow function**](./DICTIONARY.md#arrow-function)
+* [**assert**](./DICTIONARY.md#assert)
+* [**asset**](./DICTIONARY.md#asset)
+* [**asynchronous**](./DICTIONARY.md#asynchronous)
+* [**at-keyword**](./DICTIONARY.md#at-keyword)
+* [**at-rule**](./DICTIONARY.md#at-rule)
+* [**attribute**](./DICTIONARY.md#attribute)
 
 ### B
 
-* **back-end** TODO
-* **background** TODO
-* **baseline** TODO
-* **Basic Multilingual Plane (BMP)** TODO
-* **bindings** TODO
-* **blending mode** TODO
-* **block** TODO
-* **blockquote** TODO
-* **border** TODO
-* **border-radius** TODO
-* **bounding box** TODO
-* **box model** TODO
-* **box-shadow** TODO
-* **branch** TODO
-* **breadcrumbs** TODO
-* **breakpoint** TODO
-* **browser** TODO
-* **bug** TODO
-* **button** TODO
+* [**back-end**](./DICTIONARY.md#back-end)
+* [**background**](./DICTIONARY.md#background)
+* [**baseline**](./DICTIONARY.md#baseline)
+* [**Basic Multilingual Plane (BMP)**](./DICTIONARY.md#basic-multilingual-plane-bmp)
+* [**binding**](./DICTIONARY.md#binding)
+* [**blending mode**](./DICTIONARY.md#blending-mode)
+* [**block**](./DICTIONARY.md#block)
+* [**blockquote**](./DICTIONARY.md#blockquote)
+* [**border**](./DICTIONARY.md#border)
+* [**bounding box**](./DICTIONARY.md#bounding-box)
+* [**box model**](./DICTIONARY.md#box-model)
+* [**box-shadow**](./DICTIONARY.md#box-shadow)
+* [**branch**](./DICTIONARY.md#branch)
+* [**breadcrumbs**](./DICTIONARY.md#breadcrumbs)
+* [**breakpoint**](./DICTIONARY.md#breakpoint)
+* [**browser**](./DICTIONARY.md#browser)
+* [**bug**](./DICTIONARY.md#bug)
+* [**button**](./DICTIONARY.md#button)
+
 
 ## C
 
@@ -50,7 +50,7 @@
 * **cellpadding** TODO
 * **cellspacing** TODO
 * **character reference** TODO
-* **checkbox** — #d
+* **checkbox** — TODO
 * **child** TODO
 * **classitis** TODO
 * **clear** TODO
@@ -88,7 +88,7 @@
 
 ## D
 
-* **data binding** TODO
+* **debugger** TODO
 * **debugging** TODO
 * **declarations** TODO
 * **deep comparison** TODO
@@ -157,7 +157,7 @@
 * **git** TODO
 * **github** TODO
 * **global symbol registry** TODO
-* **graceful degradation** - #d
+* **graceful degradation** - TODO
 * **gradient** TODO
 * **grid layout** TODO
 * **grid** TODO
@@ -173,7 +173,8 @@
 ## I
 
 * **icon font** TODO
-* **immediately-invoked function expression (IIFE)** TODOфункціональний вираз (НВФВ)
+* **idintifier** TODO
+* **immediately-invoked function expression (IIFE)** TODO
 * **immutable** TODO
 * **implement** TODO
 * **initializer** TODO
@@ -235,10 +236,10 @@
 
 * **nested** TODO
 * **node** TODO
-* **Normalization Form Canonical Composition (NFC)** TODO«Канонічна композиція»
-* **Normalization Form Canonical Decomposition (NFD)** TODO«Канонічна декомпозиція»
-* **Normalization Form Compatibility Composition (NFKC)** TODOнормалізації «Сумісна композиція»
-* **Normalization Form Compatibility Decomposition (NFKD)** TODOнормалізації «Сумісна декомпозиція»
+* **Normalization Form Canonical Composition (NFC)** TODO
+* **Normalization Form Canonical Decomposition (NFD)** TODO
+* **Normalization Form Compatibility Composition (NFKC)** TODO
+* **Normalization Form Compatibility Decomposition (NFKD)** TODO
 * **number** TODO
 * **numeric** TODO
 
@@ -276,6 +277,7 @@
 * **ppi (pixel per inch)** TODO
 * **preprocessor** TODO
 * **private object members** TODO
+* **program** TODO
 * **progress bar** TODO
 * **progressive enhancement** TODO
 * **prolyfill** TODO
@@ -347,7 +349,7 @@
 * **single-threaded** TODO
 * **singletone** TODO
 * **skew** TODO
-* **source code** - початковий, джерельний код
+* **source code** TODO
 * **source maps** TODO
 * **source** TODO
 * **specification, spec** TODO
