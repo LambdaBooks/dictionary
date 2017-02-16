@@ -418,6 +418,7 @@
 * **validator** TODO
 * **value** TODO
 * **variable** TODO
+* [**variadic function**](./DICTIONARY.md#variadic-function)
 * **vendor files** TODO
 * **vendor prefix** TODO
 * **vertical-align** TODO
