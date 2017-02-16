@@ -234,6 +234,8 @@
 
 ## N
 
+* [**namespace**](./DICTIONARY.md#namespace)
+* [**namespacing**](./DICTIONARY.md#namespacing)
 * **nested** TODO
 * **node** TODO
 * **Normalization Form Canonical Composition (NFC)** TODO
