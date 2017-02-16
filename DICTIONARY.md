@@ -1,6 +1,6 @@
 # Словник технічних термінів
 
-Алфавітний покажчик: [A](#a) [B](#b) C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Алфавітний покажчик: [A](#a) [B](#b) C D E F G H I J K L M N O P Q R S T U [V](#v) W X Y Z
 
 ## A
 
@@ -1493,6 +1493,10 @@ TODO
 ### variable
 
 змі́нна
+
+### variadic function
+
+функція зі змінним числом параметрів
 
 ### vendor files
 
