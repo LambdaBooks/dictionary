@@ -12,6 +12,50 @@
 
 ## E
 
+### easing
+
+TODO
+
+### editor’s draft (ED)
+
+TODO
+
+### element
+
+TODO елемент
+
+### em
+
+TODO
+
+### enable
+
+TODO включити, увімкнути
+
+### enabled
+
+TODO увімкнено
+
+### engine
+
+рушій d
+
+### enumerable property
+
+перелічувані властивості
+
+### environment
+
+середовище
+
+### event loop
+
+подієвий цикл, цикл подій
+
+### executor
+
+виконавець
+
 ## F
 
 ## G
