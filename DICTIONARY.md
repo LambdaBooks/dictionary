@@ -46,6 +46,46 @@
 
 ## V
 
+### valid
+
+TODO
+
+### validating
+
+валідація, перевірка
+
+### validator
+
+TODO
+
+### value
+
+значення d
+
+### variable
+
+змі́нна
+
+### vendor files
+
+TODO
+
+### vendor prefix
+
+TODO
+
+### vertical-align
+
+TODO
+
+### viewport
+
+TODO
+
+### virtualization
+
+віртуалізація
+
 ## W
 
 ## X
