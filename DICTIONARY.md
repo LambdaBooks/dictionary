@@ -32,6 +32,30 @@
 
 ## O
 
+### opacity
+
+TODO непрозорість
+
+### opaque
+
+TODO прозорість
+
+### operand
+
+оператор
+
+### origin
+
+git
+
+### outline
+
+TODO
+
+### outputs
+
+вивід
+
 ## P
 
 ## Q
