@@ -24,6 +24,22 @@
 
 ## K
 
+### kerning
+
+TODO
+
+### keyframe
+
+TODO ключовий кадр
+
+### keyframe animation
+
+TODO
+
+### keyword
+
+ключове слово
+
 ## L
 
 ## M
