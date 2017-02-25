@@ -48,6 +48,46 @@
 
 ## W
 
+### website, web site
+
+TODO
+
+### working draft (WD)
+
+TODO
+
+### World Wide Web Consortium (W3C)
+
+TODO
+
+### web standards
+
+TODO
+
+### width
+
+TODO
+
+### word-spacing
+
+TODO
+
+### workaround
+
+обхідне рішенння, прийом d
+
+### weak set
+
+слабка множина
+
+### weak map
+
+слабка мапа
+
+### web page
+
+веб–сторінка
+
 ## X
 
 ## Y
