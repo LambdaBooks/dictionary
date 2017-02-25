@@ -4,40 +4,39 @@
 
 ### A
 
-* [**action**](./DICTIONARY.md#action)
-* [**adaptive design**](./DICTIONARY.md#adaptive-design)
-* [**almost standards mode**](./DICTIONARY.md#almost-standards-mode)
-* [**anchor**](./DICTIONARY.md#anchor)
-* [**animation**](./DICTIONARY.md#animation)
-* [**arrow function**](./DICTIONARY.md#arrow-function)
-* [**assert**](./DICTIONARY.md#assert)
-* [**asset**](./DICTIONARY.md#asset)
-* [**asynchronous**](./DICTIONARY.md#asynchronous)
-* [**at-keyword**](./DICTIONARY.md#at-keyword)
-* [**at-rule**](./DICTIONARY.md#at-rule)
-* [**attribute**](./DICTIONARY.md#attribute)
+* **action**
+* **adaptive design**
+* **almost standards mode**
+* **anchor**
+* **animation**
+* **arrow function**
+* **assert**
+* **asset**
+* **asynchronous**
+* **at-keyword**
+* **at-rule**
+* **attribute**
 
 ### B
 
-* [**back-end**](./DICTIONARY.md#back-end)
-* [**background**](./DICTIONARY.md#background)
-* [**baseline**](./DICTIONARY.md#baseline)
-* [**Basic Multilingual Plane (BMP)**](./DICTIONARY.md#basic-multilingual-plane-bmp)
-* [**binding**](./DICTIONARY.md#binding)
-* [**blending mode**](./DICTIONARY.md#blending-mode)
-* [**block**](./DICTIONARY.md#block)
-* [**blockquote**](./DICTIONARY.md#blockquote)
-* [**border**](./DICTIONARY.md#border)
-* [**bounding box**](./DICTIONARY.md#bounding-box)
-* [**box model**](./DICTIONARY.md#box-model)
-* [**box-shadow**](./DICTIONARY.md#box-shadow)
-* [**branch**](./DICTIONARY.md#branch)
-* [**breadcrumbs**](./DICTIONARY.md#breadcrumbs)
-* [**breakpoint**](./DICTIONARY.md#breakpoint)
-* [**browser**](./DICTIONARY.md#browser)
-* [**bug**](./DICTIONARY.md#bug)
-* [**button**](./DICTIONARY.md#button)
-
+* **back-end**
+* **background**
+* **baseline**
+* **Basic Multilingual Plane (BMP)**
+* **binding**
+* **blending mode**
+* **block**
+* **blockquote**
+* **border**
+* **bounding box**
+* **box model**
+* **box-shadow**
+* **branch**
+* **breadcrumbs**
+* **breakpoint**
+* **browser**
+* **bug**
+* **button**
 
 ## C
 
@@ -418,7 +417,7 @@
 * **validator** TODO
 * **value** TODO
 * **variable** TODO
-* [**variadic function**](./DICTIONARY.md#variadic-function)
+* **variadic function**
 * **vendor files** TODO
 * **vendor prefix** TODO
 * **vertical-align** TODO
