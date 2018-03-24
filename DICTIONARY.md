@@ -35,7 +35,7 @@
 
 **Аніма́ція**, (_ї_), _жін_ — поступова зміна візуальних параметрів об’єкта.
 
-### **APPLICATION, APPLICATION SOFTWARE, APP**
+### APPLICATION, APPLICATION SOFTWARE, APP
 
 > [ˌapləˈkāshən] - [еплі'кейшн]
 
