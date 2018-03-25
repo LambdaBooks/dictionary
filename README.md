@@ -1,438 +1,55 @@
 # Словник
 
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) J [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) X Y Z
+[![Twitter][twitter-image]][twitter-url]
+[![Stars][github-image]][github-url]
 
-### A
+Алфавітний покажчик: [A](./DICTIONARY.md#a) [B](./DICTIONARY.md#b) [C](./DICTIONARY.md#c) [D](./DICTIONARY.md#d) [E](./DICTIONARY.md#e) [F](./DICTIONARY.md#f) [G](./DICTIONARY.md#g) [H](./DICTIONARY.md#h) [I](./DICTIONARY.md#i) J [K](./DICTIONARY.md#k) [L](./DICTIONARY.md#l) [M](./DICTIONARY.md#m) [N](./DICTIONARY.md#n) [O](./DICTIONARY.md#o) [P](./DICTIONARY.md#p) [Q](./DICTIONARY.md#q) [R](./DICTIONARY.md#r) [S](./DICTIONARY.md#s) [T](./DICTIONARY.md#t) [U](./DICTIONARY.md#u) [V](./DICTIONARY.md#v) [W](./DICTIONARY.md#w) X Y Z
 
-* **action**
-* **adaptive design**
-* **almost standards mode**
-* **anchor**
-* **animation**
-* **arrow function**
-* **assert**
-* **asset**
-* **asynchronous**
-* **at-keyword**
-* **at-rule**
-* **attribute**
+[**Перейти у словник**](./DICTIONARY.md)
 
-### B
+Цей словник термінів розроблений і прийнятий на використання командою «LambdaBooks». Рекомендований для всієї україномовної літератури про програмування.
 
-* **back-end**
-* **background**
-* **baseline**
-* **Basic Multilingual Plane (BMP)**
-* **binding**
-* **blending mode**
-* **block**
-* **blockquote**
-* **border**
-* **bounding box**
-* **box model**
-* **box-shadow**
-* **branch**
-* **breadcrumbs**
-* **breakpoint**
-* **browser**
-* **bug**
-* **button**
+## Завдання
 
-## C
+Завдання цього проекту — дати єдині відповідники, визначення, транскрипцію та спосіб запису для термінів, які вживаються при професійному спілкуванні.
 
-* **callback function** TODO
-* **callback** TODO
-* **candidate recommendation (CR)** TODO
-* **canonical equivalence** TODO
-* **cascade** TODO
-* **cell** TODO
-* **cellpadding** TODO
-* **cellspacing** TODO
-* **character reference** TODO
-* **checkbox** — TODO
-* **child** TODO
-* **classitis** TODO
-* **clear** TODO
-* **click** TODO
-* **client-side** TODO
-* **clipping path** TODO
-* **clone** TODO
-* **closure** TODO
-* **code points** TODO
-* **code review** TODO
-* **code unit** TODO
-* **code** TODO
-* **coercion** TODO
-* **collaborators** TODO
-* **color** TODO
-* **colspan** TODO
-* **column** TODO
-* **combinator** TODO
-* **comment** TODO
-* **commit** TODO
-* **compatibility** TODO
-* **composite layer** TODO
-* **compositing** TODO
-* **compositor** TODO
-* **computed property name** TODO
-* **constants** TODO
-* **constructor** TODO
-* **content** TODO
-* **contributors** TODO
-* **cross-browser** TODO
-* **cross-platform** TODO
-* **CSS Working Group (CSSWG)** TODO
-* **custom** TODO
-* **сontributing** TODO
+Також цей проект є місцем де ми спільно шукаємо нові, більш вдалі відповідники та переклади.
+Ви можете запропонувати новий терміни, відкрити обговорення перекладу або виправити неточність.
 
-## D
+## Підтримка словника
 
-* **debugger** TODO
-* **debugging** TODO
-* **declarations** TODO
-* **deep comparison** TODO
-* **default** TODO
-* **deferreds** TODO
-* **derived objects** TODO
-* **descriptor** TODO
-* **design** TODO
-* **Destructuring assigment** TODO
-* **Destructuring** TODO
-* **device pixel ratio** TODO
-* **digit** TODO
-* **digital** TODO
-* **dirty checking** TODO
-* **disable** TODO
-* **disabled** TODO
-* **display** TODO
-* **divitis** TODO
-* **doctype** TODO
-* **Document Object Model (DOM)** TODO
-* **dropdown** TODO
+Якщо Вам сподобався наш словник і ви хочете допомогти нам, перш за все, ми дякуємо Вам! Є декілька способів посприяти нам:
 
-## E
+### Написати нам
 
-* **easing** TODO
-* **editor’s draft (ED)** TODO
-* **element** TODO
-* **em** TODO
-* **enable** TODO
-* **enabled** TODO
-* **engine** TODO
-* **enumerable property** TODO
-* **environment** TODO
-* **event loop** TODO
-* **executor** TODO
+Якщо Ви помітили яку-небудь помилку, [повідомте нас](https://github.com/LambdaBooks/dictionary/issues), або виправте та надішліть [пул–реквест](https://github.com/LambdaBooks/dictionary/compare).
 
-## F
+Не соромтесь надсилати запитання та побажання, які стосуються перекладу книги. Ми обов’язково візьмемо до уваги конструктивну критику з вашого боку.
 
-* **fallback** TODO
-* **favicon** TODO
-* **fieldset** TODO
-* **figcaption** TODO
-* **figure** TODO
-* **filter** TODO
-* **first class citizen** TODO
-* **flag** TODO
-* **flexbox** TODO
-* **float** TODO
-* **font** TODO
-* **footer** TODO
-* **fork** TODO
-* **formatting context** TODO
-* **framework** TODO
-* **front-end** TODO
-* **fulfilled** TODO
-* **full screen** TODO
-* **function** TODO
-* **function** TODO
-* **functionality** TODO
-* **futures** TODO
+### Підтримати матеріально
 
-## G
+Ви також можете надіслати кошти в підтримку проекту на картку:
 
-* **generated content** TODO
-* **generator** TODO
-* **git** TODO
-* **github** TODO
-* **global symbol registry** TODO
-* **graceful degradation** - TODO
-* **gradient** TODO
-* **grid layout** TODO
-* **grid** TODO
+**4149 4378 5069 5501**
 
-## H
+## Команда
 
-* **handler** TODO
-* **header** TODO
-* **height** TODO
-* **hoisting** TODO
-* **hook** TODO
+Цей словник результат наполегливої та злагодженої роботи нашої команди:
 
-## I
+* [_Денис Довгань_](https://twitter.com/denysdovhan) — автор словника.
+* [_Маріанна Чуприна_](https://twitter.com/marianna_ch_a) — редактор.
+* [_Олександр Закритий_](https://twitter.com/nevusnews) — редактор.
 
-* **icon font** TODO
-* **idintifier** TODO
-* **immediately-invoked function expression (IIFE)** TODO
-* **immutable** TODO
-* **implement** TODO
-* **initializer** TODO
-* **inline** TODO
-* **input** TODO
-* **input** TODO
-* **instance** TODO
-* **interoperability** TODO
-* **issue** TODO
-* **iterable** TODO
-* **iterate** TODO
-* **iterators** TODO
+## Ліцензія
 
-## K
+[CC BY-NC-ND 3.0][cc-by-nc-nd-3.0] © [Denys Dovhan](http://denysdovhan.com) and LambdaBooks
 
-* **kerning** TODO
-* **keyframe** TODO
-* **keyframe animation** TODO
-* **keyword** TODO
+<!-- References -->
 
-## L
+[cc-by-nc-nd-3.0]: http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US
 
-* **label** TODO
-* **last call (LC)** TODO
-* **layout** TODO
-* **legend** TODO
-* **length** TODO
-* **letter-spacing** TODO
-* **library** TODO
-* **library** TODO
-* **line-box** TODO
-* **line-height** TODO
-* **list** TODO
-* **list-style** TODO
-* **loop** TODO
+[twitter-url]: https://twitter.com/LambdaBooks
+[twitter-image]: https://img.shields.io/badge/twitter-%40LambdaBooks-00ACEE.svg?style=flat-square
 
-## M
-
-* **master** TODO
-* **merge** TODO
-* **map** TODO
-* **margin box** TODO
-* **margin** TODO
-* **matrix** TODO
-* **media feature** TODO
-* **media query list** TODO
-* **media query** TODO
-* **media type** TODO
-* **memory leak** TODO
-* **mixin** TODO
-* **mobile first** TODO
-* **mock object** TODO
-* **mock-up** TODO
-* **modal** TODO
-* **multiple columns** TODO
-* **multiple** TODO
-
-## N
-
-* **nested** TODO
-* **node** TODO
-* **Normalization Form Canonical Composition (NFC)** TODO
-* **Normalization Form Canonical Decomposition (NFD)** TODO
-* **Normalization Form Compatibility Composition (NFKC)** TODO
-* **Normalization Form Compatibility Decomposition (NFKD)** TODO
-* **number** TODO
-* **numeric** TODO
-
-## O
-
-* **opacity** TODO
-* **opaque** TODO
-* **operand** TODO
-* **origin** TODO
-* **outline** TODO
-* **outputs** TODO
-
-## P
-
-* **package manager** TODO
-* **padding** TODO
-* **pagination** TODO
-* **parent** TODO
-* **pattern** TODO
-* **percentage** TODO
-* **performance budget** TODO
-* **performance** TODO
-* **persistent data structures** TODO
-* **pinch** TODO
-* **pipes** TODO
-* **pixel density** TODO
-* **pixel ratio** TODO
-* **pixel** TODO
-* **placeholder** TODO
-* **plugin** TODO
-* **pointer** TODO
-* **polyfill** TODO
-* **popup** TODO
-* **position** TODO
-* **ppi (pixel per inch)** TODO
-* **preprocessor** TODO
-* **private object members** TODO
-* **program** TODO
-* **progress bar** TODO
-* **progressive enhancement** TODO
-* **prolyfill** TODO
-* **promise** TODO
-* **property** TODO
-* **proposed recommendation (PR)** TODO
-* **prototype** TODO
-* **pseudo-class** TODO
-* **pseudo-element** TODO
-* **pull request** TODO
-* **pull** TODO
-* **push** TODO
-* **repositories** TODO
-
-## Q
-
-* **quirks mode** TODO
-* **query** TODO
-
-## R
-
-* **radio button** TODO
-* **re-exporting** TODO
-* **realm** TODO
-* **recalculate** TODO
-* **recommendation (REC)** TODO
-* **reference** TODO
-* **reflow** TODO
-* **regular expression** TODO
-* **rejected** TODO
-* **release** TODO
-* **rem** TODO
-* **render** TODO
-* **repaint** TODO
-* **repository** TODO
-* **reset** TODO
-* **resolution** TODO
-* **responsive design** TODO
-* **Responsive Images Community Group (RICG)** TODO
-* **rest items** TODO
-* **rest parameters** TODO
-* **root** TODO
-* **rounded corners** TODO
-* **row** TODO
-* **rowspan** TODO
-* **rule-set** TODO
-* **runtime** TODO
-
-## S
-
-* **scaffolding** TODO
-* **scale** TODO
-* **scope** TODO
-* **script** TODO
-* **scroll** TODO
-* **scrollbar** TODO
-* **sectioning roots** TODO
-* **selector** TODO
-* **semantics** TODO
-* **server-side** TODO
-* **set** TODO
-* **setter** TODO
-* **shadow DOM** TODO
-* **shallow comparison** TODO
-* **shapes** TODO
-* **shim** TODO
-* **sibling** TODO
-* **sidebar** TODO
-* **single-threaded** TODO
-* **singletone** TODO
-* **skew** TODO
-* **source code** TODO
-* **source maps** TODO
-* **source** TODO
-* **specification, spec** TODO
-* **spread operator** TODO
-* **stacking context** TODO
-* **staging server** TODO
-* **standards mode, standards compliance mode** TODO
-* **state** TODO
-* **statement** TODO
-* **strict mode** TODO
-* **string** TODO
-* **style guide** TODO
-* **style** TODO
-* **stylesheet** TODO
-* **subclasses** TODO
-* **submit** TODO
-* **substitutions** TODO
-* **supplementary plane** TODO
-* **surrogate pair** TODO
-* **swipe** TODO
-
-## T
-
-* **tab** TODO
-* **tag** TODO
-* **tail call** TODO
-* **tap** TODO
-* **target** TODO
-* **task** TODO
-* **temporal dead zone (TDZ)** TODO
-* **text** TODO
-* **text-align** TODO
-* **text-shadow** TODO
-* **textarea** TODO
-* **thenables** TODO
-* **thumb** TODO
-* **thumbnail** TODO
-* **title** TODO
-* **toggle** TODO
-* **tool** TODO
-* **tooltip** TODO
-* **touch interface** TODO
-* **transform** TODO
-* **transition** TODO
-* **translate** TODO
-* **transpiler** TODO
-* **trap** TODO
-* **typography** TODO
-
-## U
-
-* **upstream** TODO
-* **unary** TODO
-* **unit testing** TODO
-* **unit** TODO
-* **URI** TODO
-* **URL** TODO
-* **user experience (UX)** TODO
-* **user interface (UI)** TODO
-* **utility** TODO
-
-## V
-
-* **valid** TODO
-* **validating** TODO
-* **validator** TODO
-* **value** TODO
-* **variable** TODO
-* **variadic function**
-* **vendor files** TODO
-* **vendor prefix** TODO
-* **vertical-align** TODO
-* **viewport** TODO
-* **virtualization** TODO
-
-## W
-
-* **website, web site** TODO
-* **working draft (WD)** TODO
-* **World Wide Web Consortium (W3C)** TODO
-* **web standards** TODO
-* **width** TODO
-* **word-spacing** TODO
-* **workaround** TODO
-* **weak set** TODO
-* **weak map** TODO
-* **web page** TODO
+[github-url]: https://github.com/LambdaBooks/dictionary
+[github-image]: https://img.shields.io/github/stars/LambdaBooks/dictionary.svg?style=social&label=Star
