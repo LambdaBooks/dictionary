@@ -1,6 +1,7 @@
 # Словник
 
 [![Twitter][twitter-image]][twitter-url]
+[![Facebook][facebook-image]][facebook-url]
 [![Stars][github-image]][github-url]
 
 Алфавітний покажчик: [A](./DICTIONARY.md#a) [B](./DICTIONARY.md#b) [C](./DICTIONARY.md#c) [D](./DICTIONARY.md#d) [E](./DICTIONARY.md#e) [F](./DICTIONARY.md#f) [G](./DICTIONARY.md#g) [H](./DICTIONARY.md#h) [I](./DICTIONARY.md#i) J [K](./DICTIONARY.md#k) [L](./DICTIONARY.md#l) [M](./DICTIONARY.md#m) [N](./DICTIONARY.md#n) [O](./DICTIONARY.md#o) [P](./DICTIONARY.md#p) [Q](./DICTIONARY.md#q) [R](./DICTIONARY.md#r) [S](./DICTIONARY.md#s) [T](./DICTIONARY.md#t) [U](./DICTIONARY.md#u) [V](./DICTIONARY.md#v) [W](./DICTIONARY.md#w) X Y Z
@@ -53,3 +54,6 @@
 
 [github-url]: https://github.com/LambdaBooks/dictionary
 [github-image]: https://img.shields.io/github/stars/LambdaBooks/dictionary.svg?style=social&label=Star
+
+[facebook-url]: https://facebook.com/lambdabooks
+[facebook-image]: https://img.shields.io/badge/facebook-%40LambdaBooks-00ACEE.svg?style=flat-square
