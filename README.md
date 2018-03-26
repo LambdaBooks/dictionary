@@ -1,6 +1,7 @@
 # Словник
 
 [![Twitter][twitter-image]][twitter-url]
+[![Facebook][facebook-image]][facebook-url]
 [![Slack][slack-image]][slack-url]
 [![Stars][github-image]][github-url]
 
@@ -52,8 +53,11 @@
 [twitter-url]: https://twitter.com/LambdaBooks
 [twitter-image]: https://img.shields.io/badge/twitter-%40LambdaBooks-00ACEE.svg?style=flat-square
 
-[github-url]: https://github.com/LambdaBooks/dictionary
-[github-image]: https://img.shields.io/github/stars/LambdaBooks/dictionary.svg?style=social&label=Star
+[facebook-url]: https://facebook.com/lambdabooks
+[facebook-image]: https://img.shields.io/badge/facebook-%40LambdaBooks-4267b2.svg?style=flat-square
 
 [slack-url]:  http://slack.lambdabooks.com
-[slack-image]: https://img.shields.io/badge/slack-Lambda%20Books-red.svg?style=flat-square
+[slack-image]: https://img.shields.io/badge/slack-LambdaBooks-red.svg?style=flat-square
+
+[github-url]: https://github.com/LambdaBooks/dictionary
+[github-image]: https://img.shields.io/github/stars/LambdaBooks/dictionary.svg?style=social&label=Star
