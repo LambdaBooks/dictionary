@@ -44,11 +44,11 @@
 
 ## Ліцензія
 
-[CC BY-NC-ND 3.0][cc-by-nc-nd-3.0] © [Denys Dovhan](http://denysdovhan.com) and LambdaBooks
+[CC BY-NC-SA 3.0][cc-by-nc-sa-3.0] © [Denys Dovhan](http://denysdovhan.com) and LambdaBooks
 
 <!-- References -->
 
-[cc-by-nc-nd-3.0]: http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US
+[cc-by-nc-sa-3.0]: http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
 
 [twitter-url]: https://twitter.com/LambdaBooks
 [twitter-image]: https://img.shields.io/badge/twitter-%40LambdaBooks-00ACEE.svg?style=flat-square
