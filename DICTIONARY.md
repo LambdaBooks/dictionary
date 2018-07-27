@@ -104,6 +104,46 @@
 
 ## G
 
+### generated content
+
+TODO
+
+### generator
+
+генера́тор
+
+### git
+
+git ґіт, гіт
+
+### github
+
+git ґітхаб, гітхаб
+
+### global symbol registry
+
+глобальний реєстр символів
+
+### graceful degradation
+
+TODO
+
+### gradient
+
+TODO градієнт
+
+### graphic user interface (GUI)
+
+графісний інтерфес користувача
+
+### grid layout
+
+TODO
+
+### grid
+
+TODO сітка
+
 ## H
 
 ## I
