@@ -106,6 +106,30 @@
 
 ## H
 
+### handler
+
+обро́бник
+
+### hash
+
+хеш
+
+### header
+
+TODO хедер
+
+### height
+
+TODO висота
+
+### hoisting
+
+вирина́ння
+
+### hook
+
+хук
+
 ## I
 
 ## J
