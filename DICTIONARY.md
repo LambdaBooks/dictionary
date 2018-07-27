@@ -118,6 +118,29 @@
 
 ## N
 
+### nested
+
+TODO вкладений
+
+### node
+
+ву́зол  d
+
+### Normalization Form
+
+* **Canonical Composition (NFC)** — форма нормалізації «Канонічна композиція»
+* **Canonical Decomposition (NFD)** — форма нормалізації «Канонічна декомпозиція»
+* **Compatibility Composition (NFKC)** — форма нормалізації «Сумісна композиція»
+* **Compatibility Decomposition (NFKD)** — форма нормалізації «Сумісна декомпозиція»
+
+### number
+
+число
+
+### numeric
+
+числовий
+
 ## O
 
 ## P
