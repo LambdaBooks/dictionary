@@ -124,6 +124,14 @@
 
 ## Q
 
+### quirks mode
+
+TODO
+
+### query
+
+за́пит
+
 ## R
 
 ## S
