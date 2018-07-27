@@ -132,6 +132,42 @@
 
 ## U
 
+### upstream
+
+git
+
+### unary
+
+унарний
+
+### unit testing
+
+TODO
+
+### unit
+
+css
+
+### URI
+
+TODO
+
+### URL
+
+css
+
+### user experience (UX)
+
+TODO
+
+### user interface (UI)
+
+TODO
+
+### utility
+
+утиліта d
+
 ## V
 
 ## W
