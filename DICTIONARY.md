@@ -114,6 +114,58 @@
 
 ## L
 
+### label
+
+TODO лейбл
+
+### last call (LC)
+
+TODO
+
+### layout
+
+розкладка d
+
+### legend
+
+TODO
+
+### length
+
+css довжина
+
+### letter-spacing
+
+TODO
+
+### library
+
+TODO
+
+### library
+
+бібліотека
+
+### line-box
+
+TODO
+
+### line-height
+
+TODO
+
+### list
+
+TODO список
+
+### list-style
+
+TODO стиль списку
+
+### loop
+
+цикл
+
 ## M
 
 ## N
